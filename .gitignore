@@ -11,6 +11,7 @@ clean_reviews
 clean_tweets
 catboost_info/
 .ipynb_checkpoints/
+/__pycache__
 /pixabay
 /data
 /files
