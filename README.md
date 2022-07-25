@@ -15,7 +15,7 @@
 - NLP-модель на основе MBart генерит абстрактивное саммари статьи
 - Пользователю приходит сгенеренное короткое саммари с голосовой озвучкой и ссылкой на исходную статью
 
-![Header](https://github.com/lena-sapr/final_project/blob/main/assets/1%20parsers.gif)
+![Header](https://github.com/lena-sapr/final_project/blob/main/assets/1_parsers_resized.gif)
 
 Дополнительная функциональность:
 - Пользователь может отправить в бот длинный текст и бот выдаст его короткое саммари
@@ -23,10 +23,10 @@
 - Выделение сущностей (NER - named entity recognition) из введенного текста. Текстовая модель на основе BERT выделит и подсветит такие сущности как: Персоны, Даты, События, Организации, Деньги и т.д, что может быть полезно для анализа текстов
 - Оцифровка документов - перевод картинки в редактируемый текст с помощью OCR
 
-![Header](https://github.com/lena-sapr/final_project/blob/main/assets/2%20add%20feat.gif)
+![Header](https://github.com/lena-sapr/final_project/blob/main/assets/2_add_feat_resized.gif)
 
 
 (БОНУС) Калькулятор расходов
 - Если несколько людей потратились на общее мероприятие и надо быстро посчитать, кто сколько кому должен перевести. Потраченные суммы можно вводить вручную или отправить фото с чеком - бот самостоятельно выделит сумму!
 
-![Header](https://github.com/lena-sapr/final_project/blob/main/assets/3%20Shekeli.gif)
+![Header](https://github.com/lena-sapr/final_project/blob/main/assets/3_shekeli_resized.gif)
